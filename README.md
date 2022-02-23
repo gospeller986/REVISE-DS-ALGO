@@ -1,8 +1,14 @@
 # REVISE DS-ALGO 🚀
 
+## THIS A SIMPLE CHROME EXTENSION WHICH CAN BE USED TO REVISE DS AND ALGO TIME COMPLEXITIES 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+install all the dependencies  with this command 
+
+## `npm i`
 
 In the project directory, you can run:
 
